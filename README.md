@@ -1,5 +1,5 @@
 # project_csharp_gamelibrary
-A mini C# project from a site that lists a game library
+A mini C# project that lists a game library.
 
 ============================================================================                              
 -=IMPORTANT=-                                                                                                              
