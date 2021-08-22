@@ -1,0 +1,6 @@
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.dll
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.pdb
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.csproj.AssemblyReference.cache
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.csproj.CoreCompileInputs.cache
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.dll
+C:\Users\edelu\source\repos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.pdb
