@@ -2,5 +2,5 @@
 A mini C# project from a site that lists a game library
 
 ============================================================================                              
--=IMPORTANT=-
+-=IMPORTANT=-                                                                                                              
 Use an IDE to debug the solution and open your SQL SERVER.
